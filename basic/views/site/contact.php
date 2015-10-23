@@ -19,6 +19,9 @@ $this->params['breadcrumbs'][] = $this->title;
         <div class="alert alert-success">
             Thank you for contacting us. We will respond to you as soon as possible.
         </div>
+		<div class="alert alert-success">
+            Spasibo, vse svobodni.
+        </div>
 
         <p>
             Note that if you turn on the Yii debugger, you should be able
